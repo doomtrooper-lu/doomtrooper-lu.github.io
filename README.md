@@ -2,7 +2,7 @@
 
 Site for the Doomtrooper Luna Format.
 
-[![Build Status](https://api.travis-ci.org/fiskhandlarn/doomtrooper.lu.svg?branch=master)](https://travis-ci.org/fiskhandlarn/doomtrooper.lu)
+[![Build Status](https://badgen.net/travis/fiskhandlarn/doomtrooper.lu/master)](https://travis-ci.org/fiskhandlarn/doomtrooper.lu)
 
 ## Develop
 
