@@ -1,1 +1,6 @@
-theme: jekyll-theme-minimal
+
+# Build settings
+theme: minima
+
+minima:
+  date_format: "%Y-%m-%d"
