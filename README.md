@@ -1,5 +1,7 @@
 # doomtrooper.lu
 
+![doomtrooper.lu](favicons/android-chrome-192x192.png)
+
 Site for the Doomtrooper Luna Format.
 
 [![Build Status](https://badgen.net/travis/fiskhandlarn/doomtrooper.lu/master)](https://travis-ci.org/fiskhandlarn/doomtrooper.lu)
