@@ -1,12 +1,26 @@
-title: The Luna Format
-#email:
+title: doomtrooper.lu
+email: info@doomtrooper.lu
 description: >- # this means to ignore newlines until "baseurl:"
   The Luna Format for Doomtrooper CCG.
 #baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://fiskhandlarn.github.io/doomtrooper.lu/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://doomtrooper.lu/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
+# plugins:
+#   - jekyll-feed
+
+google_analytics: UA-157544830-3
 
 minima:
   date_format: "%Y-%m-%d"
+
+facebook_username: doomtrooper.lu
+
+show_excerpts: false
+
+# https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+social:
+  links:
+    - https://www.facebook.com/doomtrooper.lu
+logo: /favicons/android-chrome-512x512.png
