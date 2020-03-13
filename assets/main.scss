@@ -1,0 +1,39 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+// https://github.com/jekyll/minima/issues/143#issuecomment-343535653
+$brand-color: #e8d170;
+$background-color: #000; //#2b3866; //#e8deb3;
+$text-color: #e6e6e6; /* an off-white for the text */
+$grey-color-light: #565656; /* for the border-top separators */
+$grey-color-dark: $brand-color; /* such as the site title in the header, visited */
+
+@import "minima";
+
+.profile {
+  width: 40%;
+  float: right;
+  margin-left: ($spacing-unit / 2);
+}
+
+@include media-query($on-laptop) {
+  .profile {
+    width: 100%;
+    float: inherit;
+    margin-left: 0;
+  }
+}
+
+.post-list-heading {
+    clear: right;
+}
+
+.rss-subscribe,
+.site-footer .footer-heading {
+  display: none;
+}
+
+.site-footer .contact-list .p-name {
+  color: $text-color;
+}
