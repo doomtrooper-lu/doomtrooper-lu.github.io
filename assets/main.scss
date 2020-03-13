@@ -11,6 +11,15 @@ $grey-color-dark: $brand-color; /* such as the site title in the header, visited
 
 @import "minima";
 
+/* fonts */
+@font-face {
+  font-family: 'Copperplate Gothic Std';
+  src: url('/assets/fonts/CopperplateGothicStd-33BC.woff2') format('woff2'),
+       url('/assets/fonts/CopperplateGothicStd-33BC.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
 .profile {
   width: 40%;
   float: right;
@@ -36,4 +45,59 @@ $grey-color-dark: $brand-color; /* such as the site title in the header, visited
 
 .site-footer .contact-list .p-name {
   color: $text-color;
+}
+
+
+@mixin copperplate($font-size-ratio, $line-height: 1.15) {
+  font-size: round($base-font-size * $font-size-ratio * 1.4);
+  font-family: 'Copperplate Gothic Std';
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: $line-height;
+}
+
+.page-heading {
+  @include copperplate(2);
+}
+
+.post-list-heading {
+  @include copperplate(1.75);
+}
+
+.post-link {
+  @include copperplate(1.5);
+}
+
+.post-title {
+  @include copperplate(2.625, .7);
+
+  @include media-query($on-laptop) {
+    @include copperplate(2.25);
+  }
+}
+
+.post-content {
+  h2 {
+    @include copperplate(2);
+
+    @include media-query($on-laptop) {
+      @include copperplate(1.75);
+    }
+  }
+
+  h3 {
+    @include copperplate(1.625);
+
+    @include media-query($on-laptop) {
+      @include copperplate(1.375);
+    }
+  }
+
+  h4 {
+    @include copperplate(1.25);
+
+    @include media-query($on-laptop) {
+      @include copperplate(1.125);
+    }
+  }
 }
