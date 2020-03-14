@@ -24,3 +24,8 @@ social:
   links:
     - https://www.facebook.com/doomtrooper.lu
 logo: /favicons/android-chrome-512x512.png
+
+# turn off smart-quotes for both apostrophes/single-quotes and double quotes
+# https://stackoverflow.com/a/25597026/1109380
+kramdown:
+    smart_quotes: ["apos", "apos", "quot", "quot"]
