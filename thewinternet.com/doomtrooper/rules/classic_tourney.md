@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Tournament rules
+title: "Doomtrooper Official Website: Tournament rules"
 ---
 
 [Source](http://www.thewinternet.com/doomtrooper/rules/classic_tourney.html "Permalink to Doomtrooper Official Website")
-
-# Doomtrooper Official Website
 
 ### TOURNAMENT RULES
 

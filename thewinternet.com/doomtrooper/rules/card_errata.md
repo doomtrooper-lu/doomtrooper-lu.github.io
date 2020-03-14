@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Card Errata
+title: "Doomtrooper Official Website: Card Errata"
 ---
 
 [Source](http://www.thewinternet.com/doomtrooper/rules/card_errata.html "Permalink to Doomtrooper Official Website")
-
-# Doomtrooper Official Website
 
 **CARD ERRATA**
 
