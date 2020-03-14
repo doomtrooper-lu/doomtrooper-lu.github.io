@@ -134,13 +134,13 @@ For warrior cards, the notes area includes four Combat Ratings. They are:
 
 To start the game, all players do the following: thoroughly shuffle your playing deck and cut an opponent's deck. Then place your deck in your draw pile position on the table. Place a number of markers into a common marker pile. You can never run out of markers. Take five markers and put them into your Destiny Point pool. Then draw seven cards from the top of your draw pile to start your hand. Peacefully determine who goes first.
 
-**The Cardinals Gift**
+**The Cardinal's Gift**
 
-If a player **does not** have any warrior in his opening hand of seven cards, he may claim the _Cardinals Gift_. He must show his hand to the other players and pick seven new cards. The first seven cards are then shuffled back into the playing deck.
+If a player **does not** have any warrior in his opening hand of seven cards, he may claim the _Cardinal's Gift_. He must show his hand to the other players and pick seven new cards. The first seven cards are then shuffled back into the playing deck.
 
-A player that **does** have a warrior in his opening hand may also claim the Cardinals Gift, but in this case the first seven cards are not shuffled back into the playing deck. Instead, they become the first seven cards of the players discard pile.
+A player that **does** have a warrior in his opening hand may also claim the Cardinal's Gift, but in this case the first seven cards are not shuffled back into the playing deck. Instead, they become the first seven cards of the player's discard pile.
 
-The Cardinals Gift may only be claimed after opening draw, and may only be claimed once by each player.
+The Cardinal's Gift may only be claimed after opening draw, and may only be claimed once by each player.
 
 **THE ORDER OF PLAY**
 

@@ -35,7 +35,7 @@ GREATER DOMINATION (DT)
 GUSTS OF HESITATION (INQ)  
 HIDDEN CACHE (INQ)  
 LESSER DOMINATION (DT)  
-NATHANIELS OPPORTUNITY (INQ)  
+NATHANIEL'S OPPORTUNITY (INQ)  
 RETRAINING (DT)  
 RUTHLESS EFFICIENCY (DT)  
 SCROLL OF UNHOLY INVOCATION (INQ)  
@@ -54,13 +54,13 @@ A player may only give Equipment, Relic, Dark Symmetry and Mission cards to his 
 
 All discards are made with the cards face down. No other player may see which card a player discard. A player is always permitted to look through his own discard pile.
 
-**The Cardinals Gift**
+**The Cardinal's Gift**
 
-If a player **does not** have any warrior in his opening hand of seven cards may claim the Cardinals Gift. He must show his hand to the Referee (not the other players) and pick seven new cards. The first seven cards are then shuffled back into the playing deck.
+If a player **does not** have any warrior in his opening hand of seven cards may claim the Cardinal's Gift. He must show his hand to the Referee (not the other players) and pick seven new cards. The first seven cards are then shuffled back into the playing deck.
 
-A player that **does** have a warrior in his opening hand may also claim the Cardinals Gift, but in this case the first seven cards are not shuffled back into the playing deck. Instead, they become the first seven cards of the players discard pile.
+A player that **does** have a warrior in his opening hand may also claim the Cardinal's Gift, but in this case the first seven cards are not shuffled back into the playing deck. Instead, they become the first seven cards of the player's discard pile.
 
-The Cardinals Gift may only be claimed after opening draw, and may only be claimed once by each player.
+The Cardinal's Gift may only be claimed after opening draw, and may only be claimed once by each player.
 
 **Beginning and Winning**
 
@@ -78,13 +78,13 @@ If a player is unable to draw a card because there are no more cards in his draw
 
 Time Limit for each game is decided by the organizer of the tournament. Rule questions and other instances involving tournament official interaction stops the clock. Semi-finals and the final games should never be terminated because of overtime.
 
-Players should be warned when there are 15, 10 and 5 minutes remaining. If a game is not completed by the decided time limits, the game immediately ends after the current players turn and the player with the most Promotion Points wins. In the event of a tie, the tied player with the most warriors in play is declared the winner (DOUBLE DUTY warriors do not count). If the tied players have an equal number of warriors in play, the tied players continue playing until each has completed three more full turns.
+Players should be warned when there are 15, 10 and 5 minutes remaining. If a game is not completed by the decided time limits, the game immediately ends after the current player's turn and the player with the most Promotion Points wins. In the event of a tie, the tied player with the most warriors in play is declared the winner (DOUBLE DUTY warriors do not count). If the tied players have an equal number of warriors in play, the tied players continue playing until each has completed three more full turns.
 
 **Collection, Playing Deck and Side Bar**
 
 Before the tournament begins, each player must present a list with all the cards in his Collection to the Referee. The Collection must consist of at least 60 cards (no upper limit).
 
-The Collection must be divided into a Playing Deck (at least 60 cards; no upper limit) and a Side Bar (**exactly** 25 cards). If you dont wish to have a Side Bar, your entire Collection is your Playing Deck, and must remain your Playing Deck throughout the tournament.
+The Collection must be divided into a Playing Deck (at least 60 cards; no upper limit) and a Side Bar (**exactly** 25 cards). If you don't wish to have a Side Bar, your entire Collection is your Playing Deck, and must remain your Playing Deck throughout the tournament.
 
 All participating players must have at least 5 warriors in their Playing Deck.
 
@@ -173,7 +173,7 @@ SUBTERFUGE
 
 **Mortificator**:
 
-DONT CALL AGAIN!  
+DON'T CALL AGAIN!  
 EAT THIS!  
 HASTY GETAWAY  
 JOKER!  
@@ -215,7 +215,7 @@ As noted in the restricted/banned list: LIMITED RESOURCES is banned in 2-team ga
 
 Each PLAYER has his own personal Destiny Pool, but each TEAM has one common Promotion Point Pool.
 
-Squads and Kohorts are extended to the other players in a team. For example, if one player in a team places a CATHEDRAL in his Squad, it effects the other players Squads as well. The other players warriors are NOT considered "your" warriors (for example, Equipment and Dark Symmetry cards may not be played on the team players warriors).
+Squads and Kohorts are extended to the other players in a team. For example, if one player in a team places a CATHEDRAL in his Squad, it effects the other players' Squads as well. The other players' warriors are NOT considered "your" warriors (for example, Equipment and Dark Symmetry cards may not be played on the team players' warriors).
 
 Example Seating (3-Team game)  
 Before the game, number the teams from #1 to #3 (decide by lot).  

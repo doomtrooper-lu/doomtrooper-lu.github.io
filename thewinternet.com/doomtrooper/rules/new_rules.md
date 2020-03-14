@@ -26,7 +26,7 @@ An important distinction here is that this only means warriors who may not be in
 
 **COMBAT MODIFIERS**
 
-You may now play any number of duplicate combat-modifying cards that you already played during a combat. The effects are cumulative. For example, you MAY play two or more POWERFUL BLOW cards on a combatant, each providing an additional +2 to F. Everyone was doing this anyway, so were making it official.
+You may now play any number of duplicate combat-modifying cards that you already played during a combat. The effects are cumulative. For example, you MAY play two or more POWERFUL BLOW cards on a combatant, each providing an additional +2 to F. Everyone was doing this anyway, so we're making it official.
 
 **HARMING YOUR OWN WARRIORS**
 
@@ -34,9 +34,9 @@ In the first-edition DOOMTROOPER basic rules we allowed players to attack their 
 
 We then changed the rule to say players could not directly attack their own warriors, but if they were forced to through Special card play, and that warrior was killed, then the player could earn either Promotion Points or Destiny Points.
 
-Well, after so many expansions, this has also become a subject of abuse. With this rule in place, the best players were not fighting each other, they were destroying themselves. DOOMTROOPER is a game of interaction and slugging it out for domination, and its time to force that interaction upon you.
+Well, after so many expansions, this has also become a subject of abuse. With this rule in place, the best players were not fighting each other, they were destroying themselves. DOOMTROOPER is a game of interaction and slugging it out for domination, and it's time to force that interaction upon you.
 
-You may still force your warriors to attack your warriors (through Special card play and Art spells, etc.) but in the event that your warrior does end up in combat against another of your warriors, and either or both of your warriors is killed, you earn only Destiny Points. In other words, you NEVER get Promotion Points for killing your own warriors. This includes killing your warriors at the expense of the enemy. For example, if you play WIND OF INSANITY and kill your own warriors in the process, you dont earn any Promotion Points for them, just Destiny Points.
+You may still force your warriors to attack your warriors (through Special card play and Art spells, etc.) but in the event that your warrior does end up in combat against another of your warriors, and either or both of your warriors is killed, you earn only Destiny Points. In other words, you NEVER get Promotion Points for killing your own warriors. This includes killing your warriors at the expense of the enemy. For example, if you play WIND OF INSANITY and kill your own warriors in the process, you don't earn any Promotion Points for them, just Destiny Points.
 
 **MORTIFICATORS**
 
@@ -59,17 +59,17 @@ May I assign multiple Sergeants to the same warrior?
 Do I have to assign the Sergeant as soon as he is put into play, or can I wait?  
 Do you compare base V or modified V?  
 _  
-And so on. Ill be honest, we didnt give these guys enough thought (due to various limitations we had to alter them at the last minute). We certainly didnt think they would cause this much trouble. Well, we were wrong. Here are a few rules to help you deal with Sergeants.
+And so on. I'll be honest, we didn't give these guys enough thought (due to various limitations we had to alter them at the last minute). We certainly didn't think they would cause this much trouble. Well, we were wrong. Here are a few rules to help you deal with Sergeants.
 
-1) Only warriors with BASE Values LOWER THAN the BASE Value of the Sergeant may be assigned to the Sergeant. This means that the only numbers you compare are the Values printed on the warrior cards. Do NOT take V modifiers into account, even if the modified V of the assigned warrior is equal to or higher than its Sergeant. The reason is that Value is not equivalent to rank, it is a measure of the individuals worth on the battlefield. As everyone knows, the lowliest private may be more worthwhile than any high-ranking goon in the thick of battle! This leads to a few assumptions:
+1) Only warriors with BASE Values LOWER THAN the BASE Value of the Sergeant may be assigned to the Sergeant. This means that the only numbers you compare are the Values printed on the warrior cards. Do NOT take V modifiers into account, even if the modified V of the assigned warrior is equal to or higher than its Sergeant. The reason is that Value is not equivalent to rank, it is a measure of the individual's worth on the battlefield. As everyone knows, the lowliest private may be more worthwhile than any high-ranking goon in the thick of battle! This leads to a few assumptions:
 
 * Sergeants may not be assigned to other Sergeants.  
 * A lowly SEA LION with a ton of V enhancers may be assigned to a Sergeant.  
-* You dont have to worry if some warriors have higher or lower modified Vs than others.
+* You don't have to worry if some warriors have higher or lower modified V's than others.
 
 2) A warrior card group (for example, the SEA LIONS, the CLANSMEN, the FREE MARINES, the BAUHAUS BLITZERS, etc.) may only have one Sergeant assigned to it.
 
-3) If a warrior groups Sergeant is killed, they may have another Sergeant assigned to it.
+3) If a warrior group's Sergeant is killed, they may have another Sergeant assigned to it.
 
 4) If the last of the assigned warrior group is killed, the Sergeant may be re-assigned to a different warrior group.
 
@@ -77,7 +77,7 @@ And so on. Ill be honest, we didnt give these guys enough thought (due to va
 
 6) You do NOT have to assign the Sergeant to a warrior group when he is played. You may assign the Sergeant at any time (even during combat). Once assigned, the Sergeant is stuck with that group, and they are stuck with him!
 
-7) If the Sergeant loses its Corporate affiliation, the assignment is broken. Likewise, if the last of the assigned warriors loses its affiliation, the assignment is broken. Remember that many times when a Corporate warrior is turned into a Heretic, he still keeps his Corporate affiliation (he becomes a spy!).
+7) If the Sergeant loses it's Corporate affiliation, the assignment is broken. Likewise, if the last of the assigned warriors loses its affiliation, the assignment is broken. Remember that many times when a Corporate warrior is turned into a Heretic, he still keeps his Corporate affiliation (he becomes a spy!).
 
 **VEHICLES IN DOOMTROOPER**
 
@@ -113,7 +113,7 @@ Warzones are raging battlefields in the Mutant Chronicles Universe. Originally, 
 * Warzone cards are added to your Squad/Kohort as one action each.
 * Any number of identical Warzones may be in play., even in your own Squad/Kohort.
 * When your warrior is the Defender in a combat, that warrior may choose to defend from one of the Warzones in its Squad/Kohort.
-* During the combat, the Defender gains the effects and modifiers to F, S, A and V listed on the Warzone card. The attackers F, S, A and V are not modified.
+* During the combat, the Defender gains the effects and modifiers to F, S, A and V listed on the Warzone card. The attacker's F, S, A and V are not modified.
 * If you defend from a Warzone, NEITHER combatant may use effects from Fortification cards. Equipment and warriors that are considered Fortifications may be used.
 * When attacking, you may not use your Warzones. Your Squad members may not use your KohortÔs Warzones and vice versa.
 
