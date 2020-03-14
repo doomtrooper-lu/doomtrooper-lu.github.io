@@ -582,23 +582,23 @@ Many cards state that they may be played on a warrior in a Squad or a Kohort, or
 
 Cards which affect another card "in play" may still affect that card, even if one or the other is in the Outpost. For example, a **Bauhaus Great Infurior** in a Squad may destroy a fortification in an Outpost.
 
-[1]: http://www.thewinternet.com/images/general/thing01.gif
-[2]: http://www.thewinternet.com/images/general/thing02.gif
-[3]: http://www.thewinternet.com/images/general/bauhaus.gif
-[4]: http://www.thewinternet.com/images/general/capitol.gif
-[5]: http://www.thewinternet.com/images/general/cyber.gif
-[6]: http://www.thewinternet.com/images/general/imperial.gif
-[7]: http://www.thewinternet.com/images/general/mishima.gif
-[8]: http://www.thewinternet.com/images/general/brotherh.gif
-[9]: http://www.thewinternet.com/images/general/darkl.gif
-[10]: http://www.thewinternet.com/images/general/doom.gif
-[11]: http://www.thewinternet.com/images/general/inquis.gif
-[12]: http://www.thewinternet.com/images/general/warzone.gif
-[13]: http://www.thewinternet.com/images/general/mortif1.gif
-[14]: http://www.thewinternet.com/images/general/golgotha.gif
-[15]: http://www.thewinternet.com/images/general/bigapocalyp.gif
-[16]: http://www.thewinternet.com/images/general/paradise.gif
-[17]: http://www.thewinternet.com/darkeden/images/rasputin.gif
-[18]: http://www.thewinternet.com/darkeden/images/templar.gif
-[19]: http://www.thewinternet.com/darkeden/images/crescentia.gif
-[20]: http://www.thewinternet.com/darkeden/images/luthera.gif
+[1]: /thewinternet.com/doomtrooper/images/general/thing01.gif
+[2]: /thewinternet.com/doomtrooper/images/general/thing02.gif
+[3]: /thewinternet.com/doomtrooper/images/general/bauhaus.gif
+[4]: /thewinternet.com/doomtrooper/images/general/capitol.gif
+[5]: /thewinternet.com/doomtrooper/images/general/cyber.gif
+[6]: /thewinternet.com/doomtrooper/images/general/imperial.gif
+[7]: /thewinternet.com/doomtrooper/images/general/mishima.gif
+[8]: /thewinternet.com/doomtrooper/images/general/brotherh.gif
+[9]: /thewinternet.com/doomtrooper/images/general/darkl.gif
+[10]: /thewinternet.com/doomtrooper/images/general/doom.gif
+[11]: /thewinternet.com/doomtrooper/images/general/inquis.gif
+[12]: /thewinternet.com/doomtrooper/images/general/warzone.gif
+[13]: /thewinternet.com/doomtrooper/images/general/mortif1.gif
+[14]: /thewinternet.com/doomtrooper/images/general/golgotha.gif
+[15]: /thewinternet.com/doomtrooper/images/general/bigapocalyp.gif
+[16]: /thewinternet.com/doomtrooper/images/general/paradise.gif
+[17]: /thewinternet.com/doomtrooper/darkeden/images/rasputin.gif
+[18]: /thewinternet.com/doomtrooper/darkeden/images/templar.gif
+[19]: /thewinternet.com/doomtrooper/darkeden/images/crescentia.gif
+[20]: /thewinternet.com/doomtrooper/darkeden/images/luthera.gif
