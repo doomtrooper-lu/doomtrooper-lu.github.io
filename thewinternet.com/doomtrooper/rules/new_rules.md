@@ -1,3 +1,7 @@
+---
+layout: page
+title: New game rules
+---
 
 [Source](http://www.thewinternet.com/doomtrooper/rules/new_rules.html "Permalink to Doomtrooper Official Website")
 

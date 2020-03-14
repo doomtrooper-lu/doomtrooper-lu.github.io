@@ -1,3 +1,7 @@
+---
+layout: page
+title: Doomtrooper 2nd edition rules
+---
 
 [Source](http://www.thewinternet.com/doomtrooper/rules/secondrules.html "Permalink to Doomtrooper Official Website")
 
