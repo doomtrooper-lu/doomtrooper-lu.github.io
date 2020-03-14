@@ -44,7 +44,7 @@ Your table space is occupied by your **Squad** of Doomtroopers, your **Kohort** 
 
 You are allowed to put both Doomtroopers and Dark Legion warriors into play. However, this is not a requirement. You may choose to play only Doomtroopers, or to field a force comprised of just Dark Legion warriors. An important consideration is that you always **have** both a Squad and a Kohort, even if there are no warriors in them. That way your Squad or Kohort may still be affected during the game.
 
-![][1]  
+<img src="/thewinternet.com/doomtrooper/images/general/thing01.gif" style="background: #fff" />
 
 **1) Your Squad** \- You place Doomtroopers in your Squad. Any warrior that does not have the Dark Legion affiliation is considered a Doomtrooper. Note that the Squad does not necessarily represent a single fighting unit. Instead it represents the pool of Doomtroopers you control. These warriors are not necessarily working together. In "real world" terms, they are fighting for you throughout the solar system.
 
@@ -68,8 +68,7 @@ In DOOMTROOPER, you take turns playing cards and doing battle with your opponent
 
 In all circumstances, if the rules on a card go against the rules in this manual, the rules on the card take precedence. The DOOMTROOPER basic set features seven different **Card Types**: Warriors, Equipment, Art Spells, Dark Symmetry, Fortifications, Missions, and Specials. Almost all DOOMTROOPER cards have the same basic layout:
 
-![][2]  
-
+<img src="/thewinternet.com/doomtrooper/images/general/thing02.gif" style="background: #fff" />
   
 **1) NAME** \- The name of the card or the thing it represents.
 
