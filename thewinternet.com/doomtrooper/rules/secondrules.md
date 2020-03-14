@@ -5,8 +5,8 @@ title: "Doomtrooper Official Website: Doomtrooper 2nd edition rules"
 
 [Source](http://www.thewinternet.com/doomtrooper/rules/secondrules.html "Permalink to Doomtrooper Official Website")
 
-**DOOMTROOPER 2nd EDITION RULES  
-**(Updated 9/3/2002)
+**DOOMTROOPER 2nd EDITION RULES**  
+(Updated 9/3/2002)
 
 The following are the complete rules for the never-released Doomtrooper 2nd Edition basic set.
 
@@ -20,17 +20,17 @@ Welcome to DOOMTROOPER! You are about to enter a distant future in which the hid
 
 DOOMTROOPER is a card game perhaps unlike any card game you have ever played. Among the multitude of different cards available, you will find mighty heroes and horrible villains, deadly weapons and magical spells, desperate missions and wily schemes. The potential is endless because the possibilities are endless!
 
-**ABOUT THIS RULEBOOK**  
+**ABOUT THIS RULEBOOK**
   
 The actual rules of the game take up less than half of this rulebook. These first few pages explain the game concepts, the various types of cards and their features, and getting ready to play. After that, the actual rules begin, which are very easy to read and understand. Then we provide a section called NOTES FROM THE MASTERS. This section covers a few game topics that you probably won't need to know about right away, such as timing, deck building, expanded rules and questions you may have after playing a few times. Finally, the rulebook concludes with DOOMTROOPER EXPANSION RULES, in which we provide all rules for the terrific new card types found in the expansion sets.
 
-**THE OBJECT**  
+**THE OBJECT**
   
 The object of DOOMTROOPER is to use your available warriors to do battle against the forces of your opponent. You place warrior cards on the table to form your **Squad** (of Doomtrooper warriors) and/or your **Kohort** (of Dark Legion warriors). In order to play warriors and perform certain other card effects, you will need to acquire and spend **Destiny Points**, the "currency" used in DOOMTROOPER (referred to on many cards as **D**). Warriors earn **Promotion Points** (referred to on many cards as **P**) for you by winning battles and through other exciting combinations of card play. When either player reaches a predetermined number of Promotion Points, the game is over.
 
 If you enjoy longer or shorter games, simply adjust the number of Promotion Points needed to win the game. The choice is yours. However, we recommend that you try 25 Promotion Points as the goal for your first few games. Most experienced players play to 40 Promotion Points.
 
-**NUMBER OF PLAYERS**  
+**NUMBER OF PLAYERS**
   
 At least two people are needed to play DOOMTROOPER, but the game may be played by any number of players. Each player must have his or her own playing deck consisting of at least 60 cards (with no upper limit). For your first few games, feel free to use the cards that came in your Starter Set. For the sake of clarity, these rules are written with the assumption that there are two players: you and one opponent.
 
@@ -38,8 +38,8 @@ At least two people are needed to play DOOMTROOPER, but the game may be played b
 
 In addition to your playing cards, you also need a number of markers to keep track of Promotion Points and Destiny Points, among other things. Coins, beads or gaming stones are perfect.
 
-**THE TABLE LAYOUT****  
-**  
+**THE TABLE LAYOUT**
+  
 Your table space is occupied by your **Squad** of Doomtroopers, your **Kohort** of Dark Legion warriors, your **Draw**, **Discard** and **Annihilated** piles of cards, the **Promotion Points** you have earned and your accumulated **Destiny Points**. The diagram below shows your side of the table.
 
 You are allowed to put both Doomtroopers and Dark Legion warriors into play. However, this is not a requirement. You may choose to play only Doomtroopers, or to field a force comprised of just Dark Legion warriors. An important consideration is that you always **have** both a Squad and a Kohort, even if there are no warriors in them. That way your Squad or Kohort may still be affected during the game.
@@ -187,19 +187,19 @@ _Example: Mike has a __**Venusian Ranger**__ (Value: 4) in his hand at the start
 
 Note that on some cards (mostly found in the expansions), Mustering a warrior may also be referred to as **Adding** a warrior.
 
-**SEEK COVER****  
-**Sometimes you may want a warrior to back away from the fighting at hand and seek the protective confines of defensive terrain. You may perform a Seek Cover action on one of your warriors in play as one action. A warrior in cover is flipped so that it is face down. Warriors in cover are governed by the following rules:
+**SEEK COVER**
+Sometimes you may want a warrior to back away from the fighting at hand and seek the protective confines of defensive terrain. You may perform a Seek Cover action on one of your warriors in play as one action. A warrior in cover is flipped so that it is face down. Warriors in cover are governed by the following rules:
 
 * As long as you have one or more warriors in play, **at least one of them must not be in cover**. If one of your warriors is defeated in combat and discarded, and all your remaining warriors are in cover, you must perform an Exit Cover action on one of them as your next available action.
 * Warriors in cover may not attack, but they may be attacked. Warriors in cover receive a +3 bonus to their Armor ratings.
 * Wounded warriors may seek cover. They are flipped over like healthy warriors, but they remain sideways to indicate that they are wounded. (See the **Attack** action for information about wounded warriors).
 * You may look at your warriors in cover at any time, but other players may not. If you have more than one warrior in cover, you are not allowed to mix those warriors up to confuse the other players.
 
-**EXIT COVER****  
-**You may have a warrior in cover go out into the open by performing an Exit Cover action. Flip the warrior over so it is face up. If the warrior is wounded, make sure it is still sideways. **A warrior may not attack on the same turn it exits cover**.
+**EXIT COVER**
+You may have a warrior in cover go out into the open by performing an Exit Cover action. Flip the warrior over so it is face up. If the warrior is wounded, make sure it is still sideways. **A warrior may not attack on the same turn it exits cover**.
 
-**MUSTER WARRIOR IN COVER****  
-**You may place a warrior into play already in cover. This uses up **all three** of your available actions. Unless you have a card that allows you to perform additional actions during your turn, Mustering a warrior in cover will be your only action in a turn.
+**MUSTER WARRIOR IN COVER**
+You may place a warrior into play already in cover. This uses up **all three** of your available actions. Unless you have a card that allows you to perform additional actions during your turn, Mustering a warrior in cover will be your only action in a turn.
 
 A warrior entering play in cover is placed on the table in the normal status position, but face down. Your opponent should not know who the warrior in cover is until you perform an Exit Cover action on the warrior **or** the warrior is attacked. Do not place an entering warrior in cover directly in your Squad or Kohort. Instead, place it between the two so your opponent cannot deduce the warrior's affiliation.
 
@@ -207,11 +207,11 @@ You do not have to pay the Destiny Point cost for adding a warrior in cover when
 
 If a combat turns out to be illegal once a warrior in cover is flipped (it must still be flipped, but remains "in cover" throughout the combat), any Destiny Points are paid (if necessary) and the combat ends. The attack action is still used up (the price of finding out who the warrior is). See the **Attack** action for information about legal attacks.
 
-**MEDITATE****  
-**You may spend an action meditating. For each meditate action you perform, you may place one marker into your Destiny Point pool. You may perform meditate actions even if you have no warriors in play.
+**MEDITATE**
+You may spend an action meditating. For each meditate action you perform, you may place one marker into your Destiny Point pool. You may perform meditate actions even if you have no warriors in play.
 
-**EQUIP WARRIOR****  
-**You may spend an action to attach an equipment card to one of your warriors in play, subject to the following restrictions:
+**EQUIP WARRIOR**
+You may spend an action to attach an equipment card to one of your warriors in play, subject to the following restrictions:
 
 * A warrior may be equipped with any number of equipment cards.
 * Any warrior may use **any** piece of equipment, regardless of affiliation, unless it is specified otherwise in the notes on the card. For instance, Dark Legion warriors are allowed to use Brotherhood weapons. But if the weapon card states "Give to any Doomtrooper," then only Doomtroopers may use the weapon, and not Dark Legion warriors.
@@ -223,13 +223,13 @@ If a combat turns out to be illegal once a warrior in cover is flipped (it must 
 
 **ARMOR** \- A card designated as ARMOR provides a suit of protection to the warrior. **Unlike most other equipment cards, a warrior may only have one piece of ARMOR.**
 
-**VEHICLES** \- Vehicles are very specialized pieces of equipment that have a unique set of rules all their own (found later). **Like ARMOR, a warrior may only have one VEHICLE.**  
+**VEHICLES** \- Vehicles are very specialized pieces of equipment that have a unique set of rules all their own (found later). **Like ARMOR, a warrior may only have one VEHICLE.**
 
-**BUILD FORTIFICATION****  
-**As one action, you may place a Fortification card into your Squad or Kohort (the card will state where it may be placed). The Fortification will affect all of the warriors in the same area (some Fortifications only affect individual warriors - this will be stated on the card). You may only have **one** copy of each Fortification in your Squad or Kohort at a time (unless the card states otherwise).
+**BUILD FORTIFICATION**
+As one action, you may place a Fortification card into your Squad or Kohort (the card will state where it may be placed). The Fortification will affect all of the warriors in the same area (some Fortifications only affect individual warriors - this will be stated on the card). You may only have **one** copy of each Fortification in your Squad or Kohort at a time (unless the card states otherwise).
 
-**BESTOW GIFT****  
-**As one action, you may bestow a Dark Symmetry gift on one of your Dark Legion warriors in play. All Dark Symmetry cards are considered "gifts." These gifts are bestowed on good Dark Legion toadies for exemplary service to the Great Darkness. Dark Symmetry cards are **attached** to a Dark Legion warrior that may have the card as one action. The effects of a Dark Symmetry card may be used immediately.
+**BESTOW GIFT**
+As one action, you may bestow a Dark Symmetry gift on one of your Dark Legion warriors in play. All Dark Symmetry cards are considered "gifts." These gifts are bestowed on good Dark Legion toadies for exemplary service to the Great Darkness. Dark Symmetry cards are **attached** to a Dark Legion warrior that may have the card as one action. The effects of a Dark Symmetry card may be used immediately.
 
 There are two levels of gift. **Dark Symmetry Gifts** are less-powerful gifts that may be bestowed on any Dark Legion warrior. **Gifts of Apostles** (GIFT OF ALGEROTH, GIFT OF DEMNOGONIS, etc.) may only be bestowed on Followers of the Apostle mentioned (FOLLOWER OF ALGEROTH, FOLLOWER OF DEMNOGONIS, etc.).
 
@@ -237,12 +237,12 @@ _For example, __**Distort**__ is a Gift of Algeroth. Only FOLLOWERS OF ALGEROTH 
 
 Some warriors are immune to Dark Symmetry Gifts (which means just the less-powerful ones), and others are immune to Dark Symmetry Cards (which is every single Dark Symmetry card).
 
-**ASSIGN MISSION****  
-**You may assign a mission to one of your warriors, yourself, another player or one of another player's warriors as one action. The mission card indicates who may be given the assignment. Missions assigned to warriors are placed on the warrior. Missions assigned to players are placed on the table near the player. Missions must be assigned before any part of the mission may be completed. Once the mission is completed, the mission card is discarded.
+**ASSIGN MISSION**
+You may assign a mission to one of your warriors, yourself, another player or one of another player's warriors as one action. The mission card indicates who may be given the assignment. Missions assigned to warriors are placed on the warrior. Missions assigned to players are placed on the table near the player. Missions must be assigned before any part of the mission may be completed. Once the mission is completed, the mission card is discarded.
 
 Players and warriors may have any number of **different** missions assigned to them, but you may not assign multiples of the **same** mission to the **same** player or warrior. Once a mission is fulfilled, you may then assign another copy of the same mission to the player or warrior. Finally, fulfilling the parameters of a mission is always **optional**. However, if a player or warrior does fulfill the parameters of an assigned mission, that mission **must** be fulfilled. You can't keep the mission in play and disregard the original fulfillment.
 
-**ATTACK**  
+**ATTACK**
 Chances are you will attack often during a game. Of course, combat is optional, but it is one of your primary methods for gaining Promotion Points.
 
 You may normally only perform **one** attack action per turn, and this action **must** be the last action you perform. If you attack as your first or second action, you lose any actions you did not use. **Also, you may not attack during your first turn of the game.**
@@ -309,15 +309,15 @@ You may discard **one** card from your hand to your discard pile (**no matter ho
 
 **OTHER RULES**
 
-**NO WARRIORS IN PLAY**  
+**NO WARRIORS IN PLAY**
 If at the beginning of any of your turns you have no warriors in play **that may participate in combat at all**, you have three complete turns to Muster a warrior or you lose the game. In other words, you have your current turn plus two more to get a warrior into play. If you put a warrior into play that may participate in combat at any point during these three turns, you have fulfilled this requirement.
 
 An important point to remember is that **any** warrior able to **participate** in combat meets this requirement. Even if your warriors are not able to attack your opponent's warriors (due to the attack restrictions listed above), they are still **able** to participate in combat (they can attack and be attacked in some way). For the basic set, **all** warriors are able to participate in combat, so no players may lose while they have **any** warriors in play. However, there are warrior cards in the expansions that may not participate in combat **at all** (for example, APOSTLES and CORPORATE LEADERS). These warriors do **not** prevent the loss of the game.
 
 A few cards found in expansion sets may refer to the concept of "attacking a player directly." This practice has been eliminated in second-edition DOOMTROOPER. These cards no longer have an effect on the game. Alternatively, you may use the **Sabotage** rules found in the NOTES FROM THE MASTERS section, below.
 
-**CASTING SPELLS OF THE ART  
-**Every member of the Brotherhood is able to manipulate the magical forces known as the Art. The Art is divided into a number of **aspects**, each requiring a different method of study and magical manipulation. The various aspects are **Art of Changeling, Art of Elements, Art of Exorcism, Art of Kinetics, Art of Manipulation, Art of Mentalism,** and **Art of Premonition**. Almost every Brotherhood warrior can cast spells from at least one aspect of the Art. Some are able to cast any spell available, while others are limited to particular aspects of the Art. Each Brotherhood warrior card indicates which sorts of spells the warrior may cast. Remember that a caster must be in your Squad to use a spell.
+**CASTING SPELLS OF THE ART**
+Every member of the Brotherhood is able to manipulate the magical forces known as the Art. The Art is divided into a number of **aspects**, each requiring a different method of study and magical manipulation. The various aspects are **Art of Changeling, Art of Elements, Art of Exorcism, Art of Kinetics, Art of Manipulation, Art of Mentalism,** and **Art of Premonition**. Almost every Brotherhood warrior can cast spells from at least one aspect of the Art. Some are able to cast any spell available, while others are limited to particular aspects of the Art. Each Brotherhood warrior card indicates which sorts of spells the warrior may cast. Remember that a caster must be in your Squad to use a spell.
 
 Many Art spells have a casting cost in Destiny Points. The more Destiny Points you spend, the more powerful the spell's effects. Unless a limit is indicated on the card, you may spend as many Destiny Points as you have. If such a spell is cast during combat, you may continue to add Destiny Points to the spell throughout the Combat Modification step.
 
@@ -327,18 +327,18 @@ Art spells may be cast by a warrior in cover.
 
 Art cards may not normally be played to the benefit of the Dark Legion. You may not, for instance, cast Art spells to assist your Dark Legion warrior in combat. Remember, the sworn duty of the Brotherhood is to eradicate the Dark Legion, not help them in their nefarious goals! However, if is possible for a spellcaster to be "tainted" and turned to the side of evil. The basic thing to remember is, if the Brother is pure of heart, it may only cast spells on Doomtroopers. If it is "tainted" and is considered both a Doomtrooper and a Dark Legion Heretic, then it may cast spells on all warriors. If it has been turned into a full-blown Heretic and no longer has Doomtrooper-affiliation, it may only cast spells for the Dark Legion.
 
-**PERSONALITIES  
-**Some warriors are designated as PERSONALITY. Only one of each personality may be in play at any one time. For example, if **Sean Gallagher** is anywhere in play, no other **Sean Gallagher** cards may be put into play.  
+**PERSONALITIES**
+Some warriors are designated as PERSONALITY. Only one of each personality may be in play at any one time. For example, if **Sean Gallagher** is anywhere in play, no other **Sean Gallagher** cards may be put into play.  
 If a personality is killed or discarded, it may be brought back into play later in the game as normal (being great heroes, personalities have a knack for staying alive). In fact, the same warrior may be killed a number of times during a game and still come back for more.
 
 In the event that you Mustered a personality into play in cover, and another player Musters that personality into play in the open, you must announce that you already have the personality in play, and show the card (and pay the D cost). Your personality is still in cover, your opponent's personality is put back into his or her hand, and all D spent to Muster that warrior is returned to the player. Treat the situation as if the Muster Warrior action never took place, and the opponent gets the action back as well.
 
 In the instance when the same personality is added in cover by two or more players, the first one to show it's face is the "real" one, and the other copies are put back in their owner's hands (since no D was spent, none is given back, but the players do lose the actions they spent Mustering the warrior).
 
-**NOTES FROM THE MASTERS  
-**  
-**OPTIONAL RULE: SABOTAGE  
-**Many players of the first-edition of DOOMTROOPER may wish to continue the practice of "attacking a player directly." Plus, this style of play does add an interesting element to the game in general. Therefore, we have provided these optional rules, which **replace** the **No Warriors in Play** rules listed above.
+**NOTES FROM THE MASTERS**
+
+**OPTIONAL RULE: SABOTAGE**
+Many players of the first-edition of DOOMTROOPER may wish to continue the practice of "attacking a player directly." Plus, this style of play does add an interesting element to the game in general. Therefore, we have provided these optional rules, which **replace** the **No Warriors in Play** rules listed above.
 
 If a player has no warriors in play **that may participate in combat at all**, you may have one of your warriors **Sabotage** that player as one action. **_Clarification: _**_While Sabotaging is not considered an attack, your sabotaging warrior must also be able to participate in combat._ By undermining a player, you increase your power, and therefore a successful sabotage will earn you valuable points. You may only sabotage **each** player **once per turn** (from your Draw step to your next Draw step).
 
@@ -350,34 +350,34 @@ If a player ever runs out of cards in his or her Draw pile while the Sabotage ru
 
 **IMPORTANT**: The sabotage action has **replaced** the first-edition concept of attacking a player directly. Many DOOMTROOPER expansion cards will refer to "attacking a player." In **all** circumstances, these cards now refer to a sabotage. **Sabotaging a player is no longer considered an attack, and no attack actions may ever be used to sabotage a player.**
 
-_**MULTIPLE SABOTAGE OPTIONAL ADDENDUM  
-**Due to overwhelming player response, the following rule has been included as an alternative to the optional Sabotage rules. In other words, you may choose to play with the Sabotage rules, the Multiple Sabotage rules, or neither._
+**MULTIPLE SABOTAGE OPTIONAL ADDENDUM**
+Due to overwhelming player response, the following rule has been included as an alternative to the optional Sabotage rules. In other words, you may choose to play with the Sabotage rules, the Multiple Sabotage rules, or neither._
 
 _The Muiltiple Sabotage rules are the same as the Sabotage rules above, but a player MAY sabotage **each** player MORE THAN ONCE** per turn** (from your Draw step to your next Draw step). _
 
-**CARDS THAT ARE CONSIDERED OTHER CARDS****  
-**Some cards will state CONSIDERED A [THING] on them. This indicates that the card is also assumed to be the thing it mentions, in addition to what it truly is. The purpose of these additional "considerations" will come out through card play.
+**CARDS THAT ARE CONSIDERED OTHER CARDS**
+Some cards will state CONSIDERED A [THING] on them. This indicates that the card is also assumed to be the thing it mentions, in addition to what it truly is. The purpose of these additional "considerations" will come out through card play.
 
 Whenever a warrior is considered a different kind of warrior, it is in name only. Special abilities and such do not transfer over. For example, **Mitch Hunter** is "CONSIDERED AN INFANTRY WARRIOR." This means that Mitch is affected by cards that affect Infantry warriors, but it does not mean that **Mitch** gains any special abilities listed on the **Infantry** card. Those abilities do not magically "transfer" to the other card! In other words, a card only has the abilities written on its card, plus any abilities specifically provided by other cards.
 
-**STRIKING FIRST****  
-**Some warriors state that they may "strike first" during some combats. Warriors able to strike first always attack their opponent first in combat (even if they are the Defender). Only if the opponent survives may it strike back (i.e. if it is killed it may not strike back, but it may if it is unharmed or wounded).  
+**STRIKING FIRST**
+Some warriors state that they may "strike first" during some combats. Warriors able to strike first always attack their opponent first in combat (even if they are the Defender). Only if the opponent survives may it strike back (i.e. if it is killed it may not strike back, but it may if it is unharmed or wounded).  
 Some warriors able to strike first specifically state that the combat ends if successful with their attacks. In this case, the opponent may not strike back even if it survives.
 
 If two warriors with the strike first ability combat each other, their abilities negate one another and the combat is resolved as normal. Note, however, that some warriors are able to strike first even if their opponent also has the ability. This will all be stated on the warrior cards.
 
-**FREELANCERS****  
-**Warrior cards designated as FREELANCERS are considered Doomtroopers (unless otherwise stated on the card). They may attack and be attacked by **any** warrior (even Brotherhood) and may **only** earn Destiny Points - **not** Promotion Points. If a Freelancer gains a specific affiliation (through card play) it may earn Promotion Points while it has the affiliation. However, it must also adhere to the rules for attacking based on this new affiliation. Therefore, a Freelancer that is given the Imperial affiliation may not attack or be attacked by Imperial and Brotherhood warriors.
+**FREELANCERS**
+Warrior cards designated as FREELANCERS are considered Doomtroopers (unless otherwise stated on the card). They may attack and be attacked by **any** warrior (even Brotherhood) and may **only** earn Destiny Points - **not** Promotion Points. If a Freelancer gains a specific affiliation (through card play) it may earn Promotion Points while it has the affiliation. However, it must also adhere to the rules for attacking based on this new affiliation. Therefore, a Freelancer that is given the Imperial affiliation may not attack or be attacked by Imperial and Brotherhood warriors.
 
-**IMMUNITY****  
-**Many warriors state that it has **immunity** to the Dark Symmetry and/or the Art. This means that these abilities have absolutely no effect on the warrior in question. There are three types of Immunity (Immune to the Art, Immune to Dark Symmetry Gifts, Immune to Dark Symmetry cards) and they all work essentially the same. Basically, a warrior who is immune to something is not affected by that thing if it can interact with the warrior in **any** way.
+**IMMUNITY**
+Many warriors state that it has **immunity** to the Dark Symmetry and/or the Art. This means that these abilities have absolutely no effect on the warrior in question. There are three types of Immunity (Immune to the Art, Immune to Dark Symmetry Gifts, Immune to Dark Symmetry cards) and they all work essentially the same. Basically, a warrior who is immune to something is not affected by that thing if it can interact with the warrior in **any** way.
 
 No spells may be cast during combat if the opponent is immune to the Art, and no Dark Symmetry abilities may be used if the opponent is immune to the Dark Symmetry (but if the warrior is immune only to **Dark Symmetry Gifts**, it is still affected by **Gifts of Apostles**). No spells or special abilities may be directly used against immune warriors (this is all usually very obvious).
 
 **IMPORTANT:** Immunity negates **all** such effects during combat. Basically, if during combat one of the combatants is immune to a mystical power, **all** of those effects that are currently "on" immediately "turn off." This usually only applies with "defensive" spells. For example, suppose Mike casts **Improve Self** on his Brotherhood warrior and then attacks Nick's **Alakhai the Cunning**. Nick's Dark Legion warrior will counter Mike's **Improve Self** effects.
 
-**TIMING****  
-**The concept of "timing" is not new to many players of collectable card games, and for some games it is a major issue full of confusion and name-calling. Not so in DOOMTROOPER! In DOOMTROOPER, everything happens **immediately** and cannot be altered unless that alteration **directly affects the thing going on at that exact moment in the game**.
+**TIMING**
+The concept of "timing" is not new to many players of collectable card games, and for some games it is a major issue full of confusion and name-calling. Not so in DOOMTROOPER! In DOOMTROOPER, everything happens **immediately** and cannot be altered unless that alteration **directly affects the thing going on at that exact moment in the game**.
 
 Some games use a system of "interrupts" to stop the play of the game in order to do something. Often this is in reaction to an event, where the other player will stop the play of the game to try to make it impossible for the acting player to perform the event that just occurred! In effect, this is like playing "backwards." In DOOMTROOPER there is no such thing as "before that happens I do this...." Once you announce what you are doing, it happens! The only way your opponent can stop your action is if he plays a card that **directly affects what you are doing**. Things happen as they are played, and the only way to stop them is to directly affect the card currently affecting the game. No playing backwards!
 
@@ -387,8 +387,8 @@ It is important to **take turns** when playing Special cards. The current player
 
 The one exception to this is that all of combat pretty-much takes place instantaneously. This means that effects that take place during the Modify Combat Ratings segment of combat may be countered later in the same segment, and do not have to be "immediately" affected. Usually the last cards played take precedence over the first cards played. In order to regulate this action, it is also important to **take turns** when playing combat modifiers. The attacker is always allowed to modify combat first, then the defender, then the other players, and then back to the attacker, etc. You will find that taking turns in this fashion greatly reduces timing conflicts.
 
-**ADVANCED VEHICLE RULES****  
-**This section was not included in the basic rules to make learning a bit easier, but these Vehicle Rules are official and should be used in all games. There are a number of different equipment and warrior cards designated as VEHICLES, and many of them are further categorized as AIRSHIPS, SUBMARINES, and TANKS. Here are some clarifications when it comes to Vehicles:
+**ADVANCED VEHICLE RULES**
+This section was not included in the basic rules to make learning a bit easier, but these Vehicle Rules are official and should be used in all games. There are a number of different equipment and warrior cards designated as VEHICLES, and many of them are further categorized as AIRSHIPS, SUBMARINES, and TANKS. Here are some clarifications when it comes to Vehicles:
 
 * A warrior may only be equipped with **one** Vehicle.
 * Sometimes (but not always) a Vehicle restricts the use of other equipment while it is being used. If a Vehicle does not say that it restricts equipment, then equipment may be used. Often this restriction is in the form of WEAPONS. If the Vehicle restricts equipment, it restricts all equipment cards; if it restricts WEAPONS, then only WEAPONS are restricted, and ARMOR and other equipment may be used, etc.
@@ -406,8 +406,8 @@ c) The warrior **may not** Seek Cover. A warrior in cover may not enter the Vehi
 * A warrior inside an AIRSHIP or a SUBMARINE may not attack or be attacked by another warrior with a **Fight** combat. If a warrior with an AIRSHIP or SUBMARINE wishes to attack another by Fighting, it must first exit the AIRSHIP or SUBMARINE. Generic VEHICLES and TANKS are not affected in this way.
 * A warrior that is "Considered a Vehicle" is always assumed to be inside, and may never exit.
 
-**MULTI-PLAYER GAMES****  
-**When more than two people are playing DOOMTROOPER, there are two things to keep in mind. First, play always proceeds clockwise around the table. Second, the players have to determine the style of play. Try out the following options and use them as you like. Also, feel free to invent your own.
+**MULTI-PLAYER GAMES**
+When more than two people are playing DOOMTROOPER, there are two things to keep in mind. First, play always proceeds clockwise around the table. Second, the players have to determine the style of play. Try out the following options and use them as you like. Also, feel free to invent your own.
 
 Option 1: Free for All. No restrictions. All players may freely attack all other players. This is the "classic" way to play DOOMTROOPER.
 
@@ -415,13 +415,13 @@ Option 2: Primary Targets. Each player has one opponent as a Primary Target, and
 
 Option 3: Teams. If the number of players works out evenly, divide into teams. Each team starts the game with 10 Destiny Points in a common team pool, no matter how many players are on a team. Team members may only add to and draw from the points in their common team pool. Team members do not share Squads, Kohorts or cards. The team that first acquires a pre-determined number of Promotion Points (say 50) wins the game.
 
-**EXPANDING YOUR GAME****  
-**This Starter Set is only a stepping stone to a much more diverse game. In fact, the basic DOOMTROOPER set is comprised of over 300 different cards, and when you include the expansions, there are well over 1200 unique DOOMTROOPER cards!
+**EXPANDING YOUR GAME**
+This Starter Set is only a stepping stone to a much more diverse game. In fact, the basic DOOMTROOPER set is comprised of over 300 different cards, and when you include the expansions, there are well over 1200 unique DOOMTROOPER cards!
 
 You can acquire more of these cards in two ways. One is by buying more Starter Sets because each one contains a random assortment of the available cards. Or you can buy Booster Packs: packs of DOOMTROOPER cards packaged in the same format as other, more traditional trading cards, like sports cards. You can find Booster Packs where you purchased this Starter Set.
 
-**DESIGNING A DECK****  
-**As you collect DOOMTROOPER cards, your set will probably become large enough that you could not possibly use all of the cards in a single game. That's fine, just play with the cards you want. One of the best features of DOOMTROOPER is that you can plan your playing strategy around the cards you put into your playing deck.
+**DESIGNING A DECK**
+As you collect DOOMTROOPER cards, your set will probably become large enough that you could not possibly use all of the cards in a single game. That's fine, just play with the cards you want. One of the best features of DOOMTROOPER is that you can plan your playing strategy around the cards you put into your playing deck.
 
 This is called deck building, and it's fun to experiment with different card mixes when you aren't playing the game. Try out those new decks on your opponents and see how they work! If they don't give you the advantage you were hoping for, simply change the card mix and try again.
 
@@ -441,8 +441,8 @@ There are more DOOMTROOPER expansion sets available than almost any other collec
 
 The **Inquisition** expansion features over 170 new cards. This expansion spotlights the Brotherhood and Dark Legion, with a host of new Art spells and Dark Symmetry abilities. Also featured are the new **Relic** cards.
 
-**RELICS**  
-Relics are ancient artifacts of great power. Originally, Relic cards could only be played if you had previously played a **Noted Collector** card. This is hereby changed; you do **not** need to be a NOTED COLLECTOR in order to put a Relic card into play. Instead:
+**RELICS**
+ Relics are ancient artifacts of great power. Originally, Relic cards could only be played if you had previously played a **Noted Collector** card. This is hereby changed; you do **not** need to be a NOTED COLLECTOR in order to put a Relic card into play. Instead:
 * A Relic card may be attached to your warrior that may have it as one action.
 * All Relic cards are **unique**; you may never play a Relic card if there already is an identical Relic card in play. Copies of discarded Relics may enter play again later.
 * Relics are not considered Equipment.
@@ -451,7 +451,7 @@ Relics are ancient artifacts of great power. Originally, Relic cards could only 
 
 The **Warzone** expansion features over 130 new cards. This expansion spotlights the corporate powers, with numerous new warriors and effects to give your basic troops some well-deserved support. Also featured are the new **Warzone** cards.
 
-**WARZONES**  
+**WARZONES**
 Warzones are raging battlefields in the Mutant Chronicles setting. Originally, Warzone cards could only be played if you had previously played a **Grand Tactician** card. This is hereby changed; you do **not** need to be a GRAND TACTICIAN in order to put a Warzone card into play. Instead:
 * Warzone cards are added to your Squad/Kohort as one action each (the card will state where it may be played).
 * Any number of identical Warzones may be in play, **but YOU may only have one copy of each Warzone in play.**
@@ -474,7 +474,7 @@ The **Mortificator** expansion features over 120 new cards. This expansion spotl
   
 The **Golgotha** expansion features 80 new game cards, plus each booster pack also contains 1 of 11 completely free Info Cards, containing game info and other Mutant Chronicles-related items. This expansion includes the new **Alliance** cards.
 
-**ALLIANCES**  
+**ALLIANCES**
 The seven Alliances are the cornerstones of the Mutant Chronicles universe, and most warriors belong to one of them. Players may openly state they wish to play one of the alliances, giving his or her warriors from that alliance a considerable bonus.
 
 Alliance cards may be played at any time, and do not require any actions to be played. **Each player may only have one Alliance card in play**. Alliance cards may **never** be discarded or annihilated, except by cards that specifically discard or otherwise remove Alliance cards from the game. All Alliance cards are **unique**. You may never play an Alliance card if there is already an identical Alliance card in play.
@@ -484,7 +484,7 @@ Alliance cards may be played at any time, and do not require any actions to be p
   
 The **Apocalypse** expansion features 80 new game cards, plus each booster pack also contains 1 of 10 completely free Info Cards, containing several new clarifications and rules. This expansion spotlights the Mishima corporation, and includes the new KI POWER cards.
 
-**KI POWERS**  
+**KI POWERS**
 Over the long centuries, the Mishimen have developed powers strange to the other corporations and the Brotherhood, called Ki Powers. Most who use Ki Powers show no trace of the Darkness and some are more resilient to it than ordinary people.
 
 * Ki Power cards may be attached to any Mishima-affiliated warrior as one action each. A warrior may only have one copy of each Ki Power card attached to it (no duplicates).
@@ -496,7 +496,7 @@ Over the long centuries, the Mishimen have developed powers strange to the other
   
 It's time to find out what happened to all those left behind on Earth centuries ago! The **Paradise Lost** expansion is a totally new direction for DOOMTROOPER. This epic expansion features over 120 game cards, plus each booster also contains 1 of 11 completely free rule cards providing all the exciting new changes. Included in this expansion are four new affiliations, new **Beast** cards representing enormous Earth creatures, and a completely new area to place your warriors - the **Outpost**!
 
-**INTRODUCTION**  
+**INTRODUCTION**
 _Brethren, I fear we have a new threat. A threat within our own backyard. I have detected the taint of Symmetry nearby. Surely the corporate scouts have discovered in person what I have learned through my meditation and trust in the Art. But their greed will make them zealous, and their pride will make them certain of their abilities to crush any resistance. They will not anticipate the power of those they wish to dominate. What is worse, I foresee the Dark Legion allied with a welcoming host of humanity._
 
 _The people we left behind those thousands of years ago have once again risen into a semblance of civilization. The Earth is a hotbed of disease and corruption. Even the air is unfit to breathe. Yet they thrive. I foresee the taint of the Dark Legion among them. Not all of them, no, but many. So many._
@@ -505,15 +505,15 @@ _You must return to Dark Eden, to cleanse it as much as you are able. Focus your
 
 Paradise Lost features the Dark Eden setting of forsaken Earth. This setting is also featured in a number of MUTANT CHRONICLES RPG products as well as its own collectable card game, also called DARK EDEN. This expansion is not compatible with the DARK EDEN CCG, and you do not need to be familiar with any of the other Dark Eden products to use the Paradise Lost expansion.
 
-**THE OUTPOST**  
+**THE OUTPOST**
 The warriors of Dark Eden may not leave the planet, so any interaction with these new forces must be on Earth itself. There is now a new area to place your warriors, called your **Outpost**, located between your Squad and Kohort. Your Outpost is where you place all warriors that inhabit Earth, either as native people or transferred warriors from off-world. Note that the other planets are still jointly represented by your Squad and Kohort. Your Squad, Kohort and Outpost are each an **Area**. When a card refers to an Area, it means Squad, Kohort or Outpost.
 
-**AREAS OF INFLUENCE**  
+**AREAS OF INFLUENCE**
 Since the Outpost is the first real manifestation of a specific and permanent place in the game, it may be easy to think that certain abilities would not carry into the Outpost from the Squad or Kohort. This is not true. Remember that in DOOMTROOPER, your Squad and Kohort actually represent your "good" and "evil" forces all over the solar system, not just on a particular battlefield. Therefore, the influence of your warriors currently extends from Mercury to the Asteroid Belt in the abstract nature of the game. Earth is just another planet along the way, and falls under these areas of influence.
 
 Cards that normally affect warriors in your Squad or your Kohort (like fortifications and other warriors) extend their abilities into the Outpost when there are legal targets in the Outpost, and extend to your Squad or Kohort when the affecting card is in your Outpost. **In these cases only**, you can think of the Outpost as an extension of your Squad when there are Doomtroopers on Earth, and as an extension of your Kohort when there are Dark Legion warriors on Earth. For example, the **Venusian Marshal** card states "For each Venusian Marshal in your Squad, all your non-Personality Bauhaus warriors (but not Venusian Marshals) gain +2 to F, S and A." If you have a Venusian Marshal in your Squad, even the Bauhaus warriors in your Outpost gain the bonus. Likewise, a Venusian Marshal in your Outpost will affect Bauhaus warriors in your Outpost and Squad.
 
-**NEW AFFILIATIONS**  
+**NEW AFFILIATIONS**
 Paradise Lost features four new affiliation icons. Each represents one of the native powers on Earth. These four affiliations are grouped under the general term of **Tribal** affiliations. When a card refers to a Tribal warrior, it means a warrior from one of these four affiliations. This means there are now three major organizations, Doomtroopers, Dark Legion warriors and Tribal warriors. The new affiliations are:
 
 ![][17] THE SONS OF RASPUTIN - A proud people, the Rasputins control the eastern European region. Their huge war machines are only dwarfed by their smoke-spewing cities.
@@ -524,7 +524,7 @@ Paradise Lost features four new affiliation icons. Each represents one of the na
 
 ![][20] THE LUTHERAN TRIAD - While certainly the least powerful of the European tribes, the Lutherans are undeniably the most dedicated. Their wrath toward the other tribes makes them competent foes, and their highly religious nature keeps them strong.
 
-**BEASTS**  
+**BEASTS**
 * Beast cardss represent the indigenous animals found throughout Dark Eden that may be ridden by warriors into battle, like VEHICLES.
 * You may give a Beast to a warrior that may have it as one action.
 * A warrior may only be given a Beast if the warrior is in your Outpost.
@@ -535,25 +535,25 @@ Paradise Lost features four new affiliation icons. Each represents one of the na
 * A warrior with a Beast may gain the effects from fortifications, and may be in cover.
 * Warriors "Considered Beasts" may not have Beasts or Vehicles, may not Transfer (see below), are discarded if forced out of an Outpost, gain the effects of Fortifications, and may be in Cover.
 
-**ACTIONS**  
-Actions you gain from warriors and other cards in your Squad or Kohort may be used with warriors in your Outpost, and vice-versa (unless the warrior's extra actions must be used by that warrior, as stated on its card).  
-**  
-**** MUSTER WARRIOR**  
+**ACTIONS**
+Actions you gain from warriors and other cards in your Squad or Kohort may be used with warriors in your Outpost, and vice-versa (unless the warrior's extra actions must be used by that warrior, as stated on its card).
+
+**MUSTER WARRIOR**
 * Tribal warriors may only enter play in the Outpost.
 * The Tribal affiliations hate each other, and will not work together. You may not Muster a warrior of one Tribal affiliation to your Outpost if there is already a warrior from another Tribal affiliation there.
 
-**EQUIP**  
+**EQUIP**
 * Equipment that me be given to "any warrior" may be given to Tribal warriors.
 
-**BUILD FORTIFICATION**  
+**BUILD FORTIFICATION**
 * A fortification may only be Built in your Outpost if it is specifically stated on the card. Most fortifications state that they are placed in either your Squad or Kohort; these cards may **not** be Built in your Outpost. Cards that are Built away from your Squad and Kohort (like **Club Arkadin**) may not be Built in your Outpost, either.
 * The exception is if the fortification is given to a warrior (like **Installation** or **Foxhole**). These cards may be given to warriors in your Outpost (and these fortifications must stay in the Outpost).
 
-**WARZONES**  
+**WARZONES**
 * Cards with Warzone-specific abilities (like a warrior with **Ki Teleportation**) do not lose those abilities when they are in the Outpost, and the effect applies to Outpost-specific Warzones as well.
 
-**TRANSFER**  
-You may use the new **Transfer** action to move your Doomtroopers and Dark Legion warriors to and from your Outpost.
+**TRANSFER**
+ You may use the new **Transfer** action to move your Doomtroopers and Dark Legion warriors to and from your Outpost.
 * No Transfer actions may be made by any warrior until at least one warrior has **entered play** in an Outpost. Once any warrior enters play in any Outpost, Transfer actions may be taken. _(Added 11/29/01)_
 * Transferring costs one action, unless the Transferring warrior has or is considered a VEHICLE, in which case it costs **two** actions to Transfer.
 * You may Transfer a Doomtrooper from your Squad to your Outpost or from your Outpost to your Squad.
@@ -566,18 +566,18 @@ You may use the new **Transfer** action to move your Doomtroopers and Dark Legio
 * A warrior that "may not be in your Squad or Kohort" (like the **Renegade Apostate**) **may** be Transferred to your Outpost, and may interact with both Doomtrooper and Dark Legion warriors while on Earth. If the warrior Transfers off of the Outpost, it returns to its "unaffiliated" area.
 * If your spies detect possible enemy movement on Earth, you must go check it out. Therefore, if any opponent has a warrior in his or her Outpost (of any affiliation), you **must** Transfer at least one warrior to your Outpost during your next regular action. As long as there are warriors in an Outpost, all players must have a warrior in his or her Outpost.
 
-**ATTACKING**  
+**ATTACKING**
 Warriors in your Outpost may **never** attack warriors in Squads or Kohorts. Likewise, warriors in Squads and Kohorts may **never** attack warriors in Outposts. Even if a card is played that may change the attacker or defender of a combat to any other warrior in play (like **Greater Telepathy**), you may not break this rule!
 
 The warriors of the various Tribal affiliations may attack and be attacked by any other warrior, regardless of affiliation, even other like-affiliated warriors (for example, Templars may attack other Templars).
 
-**THE OPTIONAL SABOTAGE RULES**  
+**THE OPTIONAL SABOTAGE RULES**
 A player may only be sabotaged if he or she has no warriors in play that are able to be in combat, as normal. Even Tribal warriors may sabotage a player. Therefore, if an opponent has an empty Squad and Kohort, but has a warrior in his or her Outpost, your Squad member may not sabotage the player because he or she has at least one warrior in play.
 
-**CASTING ART SPELLS**  
+**CASTING ART SPELLS**
 **Any** warrior able to cast Art spells may cast them to the benefit and disadvantage of Tribal warriors.
 
-**LEGAL TARGETS WHEN PLAYING CARDS FROM YOUR HAND**  
+**LEGAL TARGETS WHEN PLAYING CARDS FROM YOUR HAND**
 Many cards state that they may be played on a warrior in a Squad or a Kohort, or in the Squad and Kohort itself. Despite the presence of the new Outpost, these designations still apply. If a card may only be played "on a Doomtrooper in a Squad," it may not be played on a Doomtrooper in your Outpost. But if it says "play on any Doomtrooper" then it may be played on a Doomtrooper in any Area.
 
 Cards which affect another card "in play" may still affect that card, even if one or the other is in the Outpost. For example, a **Bauhaus Great Infurior** in a Squad may destroy a fortification in an Outpost.
