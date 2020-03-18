@@ -5,9 +5,6 @@ title: "Doomtrooper Official Website: New game rules"
 
 [Source](http://www.thewinternet.com/doomtrooper/rules/new_rules.html "Permalink to Doomtrooper Official Website")
 
-### NEW GAME RULES  
-
-  
 These rules are official and must be used in all "official" games (like tournaments).
 
 **ALLIANCES (From the GOLGOTHA Expansion)  
