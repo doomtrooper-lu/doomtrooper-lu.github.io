@@ -27,7 +27,7 @@ Back in the early stages of DOOMTROOPER (the first edition) it was possible to a
 ## HOLY PROTECTOR <small>(MORT)</small>
 The wording on this card may be misleading. HOLY PROTECTOR may only be used when your warrior is atatcked. You may not perform an attack with one of your warriors and then play HOLY PROTECTOR to change the attacker.
 
-## MANIFGEST DESTINY <small>(1st Ed Basic)</small>
+## MANIFEST DESTINY <small>(1st Ed Basic)</small>
 The wording on this card has caused too much confusion. Assume this card has the second edition wording:
 
 > ATTACH TO YOURSELF AT ANY TIME. While attached, your hand limit is 10 cards instead of 7. Follow all normal drawing rules, but use this new limit.
@@ -35,8 +35,8 @@ The wording on this card has caused too much confusion. Assume this card has the
 ## SUPREME NECROMAGUS <small>(WZ)</small>
 This is minor, but the end of the card should read, "The Necromagus will not affect its own ratings, but others may."
 
-## THE FALCOLM OF PILGRIMS <small>(INQ)</small>
-Art spells that are removed from play or annihilated after casting DO NOT stay with the Falcolm. They are annihilated.
+## THE FALCON OF PILGRIMS <small>(INQ)</small>
+Art spells that are removed from play or annihilated after casting DO NOT stay with the Falcon. They are annihilated.
 
 ## THE FIRST DIRECTORATE <small>(INQ)</small>
 ## THE SECOND DIRECTORATE <small>(INQ)</small>
