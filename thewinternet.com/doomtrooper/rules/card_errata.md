@@ -5,7 +5,6 @@ title: "Doomtrooper Official Website: Card Errata"
 
 [Source](http://www.thewinternet.com/doomtrooper/rules/card_errata.html "Permalink to Doomtrooper Official Website")
 
-**CARD ERRATA**
 ## CLOSE AIR SUPPORT (WZ)
 CLOSE AIR SUPPORT is a U2 card, which means it is found twice on the uncommon card sheet. One of the cards gives +5 to F, the other gives +5 to S. The correct version is +5 to F (since ARTILLERY SUPPORT provides +5 to S). In OFFICIAL games, all CLOSE AIR SUPPORT cards will be assumed to have the +5 to F text (due to the fact that this mistake did not occur on non-English editions). However, some players choose to play what is written on the card. That is fine, as long as all players agree before the game starts.
 
