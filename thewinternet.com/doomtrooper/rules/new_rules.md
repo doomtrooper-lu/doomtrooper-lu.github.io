@@ -8,7 +8,7 @@ title: "Doomtrooper Official Website: New game rules"
 ### NEW GAME RULES  
 
   
-These rules are official and must be used in all official games (like tournaments).
+These rules are official and must be used in all "official" games (like tournaments).
 
 **ALLIANCES (From the GOLGOTHA Expansion)  
 **  
@@ -32,11 +32,11 @@ You may now play any number of duplicate combat-modifying cards that you already
 
 In the first-edition DOOMTROOPER basic rules we allowed players to attack their own warriors at will, and if the warrior was killed the player earned Destiny Points. While this was supposed to be used only as a desperation act to get much-needed Destiny Points, it was quickly abused.
 
-We then changed the rule to say players could not directly attack their own warriors, but if they were forced to through Special card play, and that warrior was killed, then the player could earn either Promotion Points or Destiny Points.
+We then changed the rule to say players could not directly attack their own warriors, but if they were "forced" to through Special card play, and that warrior was killed, then the player could earn either Promotion Points or Destiny Points.
 
 Well, after so many expansions, this has also become a subject of abuse. With this rule in place, the best players were not fighting each other, they were destroying themselves. DOOMTROOPER is a game of interaction and slugging it out for domination, and it's time to force that interaction upon you.
 
-You may still force your warriors to attack your warriors (through Special card play and Art spells, etc.) but in the event that your warrior does end up in combat against another of your warriors, and either or both of your warriors is killed, you earn only Destiny Points. In other words, you NEVER get Promotion Points for killing your own warriors. This includes killing your warriors at the expense of the enemy. For example, if you play WIND OF INSANITY and kill your own warriors in the process, you don't earn any Promotion Points for them, just Destiny Points.
+You may still "force" your warriors to attack your warriors (through Special card play and Art spells, etc.) but in the event that your warrior does end up in combat against another of your warriors, and either or both of your warriors is killed, you earn only Destiny Points. In other words, you NEVER get Promotion Points for killing your own warriors. This includes killing your warriors at the expense of the enemy. For example, if you play WIND OF INSANITY and kill your own warriors in the process, you don't earn any Promotion Points for them, just Destiny Points.
 
 **MORTIFICATORS**
 
@@ -61,7 +61,7 @@ Do you compare base V or modified V?
 _  
 And so on. I'll be honest, we didn't give these guys enough thought (due to various limitations we had to alter them at the last minute). We certainly didn't think they would cause this much trouble. Well, we were wrong. Here are a few rules to help you deal with Sergeants.
 
-1) Only warriors with BASE Values LOWER THAN the BASE Value of the Sergeant may be assigned to the Sergeant. This means that the only numbers you compare are the Values printed on the warrior cards. Do NOT take V modifiers into account, even if the modified V of the assigned warrior is equal to or higher than its Sergeant. The reason is that Value is not equivalent to rank, it is a measure of the individual's worth on the battlefield. As everyone knows, the lowliest private may be more worthwhile than any high-ranking goon in the thick of battle! This leads to a few assumptions:
+1) Only warriors with BASE Values LOWER THAN the BASE Value of the Sergeant may be assigned to the Sergeant. This means that the only numbers you compare are the Values printed on the warrior cards. Do NOT take V modifiers into account, even if the modified V of the assigned warrior is equal to or higher than its Sergeant. The reason is that Value is not equivalent to "rank", it is a measure of the individual's worth on the battlefield. As everyone knows, the lowliest private may be more worthwhile than any high-ranking goon in the thick of battle! This leads to a few assumptions:
 
 * Sergeants may not be assigned to other Sergeants.  
 * A lowly SEA LION with a ton of V enhancers may be assigned to a Sergeant.  
@@ -102,7 +102,7 @@ A warrior with a Vehicle must be either INSIDE or OUTSIDE of its Vehicle. To sig
 
 a) The warrior may not gain the benefits of fortifications.  
 b) Opponents of the warrior may gain the benefits of their fortifications.  
-c) The warrior may not Seek Cover. A warrior in cover may not Enter the VEHICLE, and must Exit Cover before Entering the VEHICLE again. If the warrior in forced into cover through card play, the warrior is forced out of its Vehicle as well.
+c) The warrior may not Seek Cover. A warrior in cover may not Enter the VEHICLE, and must Exit Cover before Entering the VEHICLE again. If the warrior in "forced" into cover through card play, the warrior is forced out of its Vehicle as well.
 
 * A warrior inside an AIRSHIP or a SUBMARINE may NOT attack or BE ATTACKED by another warrior with a FIGHT combat. If a warrior with an AIRSHIP or SUBMARINE wishes to attack another by Fighting, it must first Exit the AIRSHIP or SUBMARINE. Straight VEHICLES and TANKS are not affected in this way.
 

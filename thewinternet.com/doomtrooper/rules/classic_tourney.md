@@ -44,13 +44,13 @@ SUPPLY LINE SEVERED (INQ)
 
 Cards that are annihilated may not return to the game by any means, except by playing the card A SECOND CHANCE (APOC).
 
-Cards that may not/never be discarded may always be annihilated, unless the card specifically states otherwise.
+Cards that "may not/never be discarded" may always be annihilated, unless the card specifically states otherwise.
 
 A player may only play BLOOD LUST (DT) once during each of his turns.
 
-For cards which allow a player to pull cards from his collection, a collection is defined as the players draw pile, discard pile, hand and Side Bar. Cards in play or annihilated may not be taken.
+For cards which allow a player to pull cards from his "collection", a collection is defined as the players draw pile, discard pile, hand and Side Bar. Cards in play or annihilated may not be taken.
 
-A player may only give Equipment, Relic, Dark Symmetry and Mission cards to his own warriors. Exceptions are cards that may be given to any warrior or player (which may be given to any warrior in play), and cards which state specifically otherwise.
+A player may only give Equipment, Relic, Dark Symmetry and Mission cards to his own warriors. Exceptions are cards that may be given to "any" warrior or player (which may be given to any warrior in play), and cards which state specifically otherwise.
 
 All discards are made with the cards face down. No other player may see which card a player discard. A player is always permitted to look through his own discard pile.
 
@@ -78,7 +78,7 @@ If a player is unable to draw a card because there are no more cards in his draw
 
 Time Limit for each game is decided by the organizer of the tournament. Rule questions and other instances involving tournament official interaction stops the clock. Semi-finals and the final games should never be terminated because of overtime.
 
-Players should be warned when there are 15, 10 and 5 minutes remaining. If a game is not completed by the decided time limits, the game immediately ends after the current player's turn and the player with the most Promotion Points wins. In the event of a tie, the tied player with the most warriors in play is declared the winner (DOUBLE DUTY warriors do not count). If the tied players have an equal number of warriors in play, the tied players continue playing until each has completed three more full turns.
+Players should be warned when there are 15, 10 and 5 minutes remaining. If a game is not completed by the decided time limits, the game immediately ends after the current player's turn and the player with the most Promotion Points wins. In the event of a tie, the tied player with the most warriors in play is declared the winner ("DOUBLE DUTY warriors" do not count). If the tied players have an equal number of warriors in play, the tied players continue playing until each has completed three more full turns.
 
 **Collection, Playing Deck and Side Bar**
 
