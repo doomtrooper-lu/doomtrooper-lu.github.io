@@ -93,7 +93,7 @@ Warzones are raging battlefields in the Mutant Chronicles Universe. Originally, 
 * When your warrior is the Defender in a combat, that warrior may choose to defend from one of the Warzones in its Squad/Kohort.
 * During the combat, the Defender gains the effects and modifiers to F, S, A and V listed on the Warzone card. The attacker's F, S, A and V are not modified.
 * If you defend from a Warzone, NEITHER combatant may use effects from Fortification cards. Equipment and warriors that are considered Fortifications may be used.
-* When attacking, you may not use your Warzones. Your Squad members may not use your KohortÔs Warzones and vice versa.
+* When attacking, you may not use your Warzones. Your Squad members may not use your Kohort's Warzones and vice versa.
 
 Here are some more important things to remember about Warzones.
 1. The defending player announces if his or her warrior will Defend from a Warzone AFTER the Battle Tactic is announced (see THE MOTHER OF ALL COMBAT BREAKDOWNS, below).
