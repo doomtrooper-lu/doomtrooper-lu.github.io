@@ -440,7 +440,7 @@ There are more DOOMTROOPER expansion sets available than almost any other collec
 The **Inquisition** expansion features over 170 new cards. This expansion spotlights the Brotherhood and Dark Legion, with a host of new Art spells and Dark Symmetry abilities. Also featured are the new **Relic** cards.
 
 **RELICS**
- Relics are ancient artifacts of great power. Originally, Relic cards could only be played if you had previously played a **Noted Collector** card. This is hereby changed; you do **not** need to be a NOTED COLLECTOR in order to put a Relic card into play. Instead:
+ Relics are ancient artifacts of great power. Originally, Relic cards could only be played if you had previously played a *NOTED COLLECTOR* card. This is hereby changed; you do **not** need to be a NOTED COLLECTOR in order to put a Relic card into play. Instead:
 * A Relic card may be attached to your warrior that may have it as one action.
 * All Relic cards are **unique**; you may never play a Relic card if there already is an identical Relic card in play. Copies of discarded Relics may enter play again later.
 * Relics are not considered Equipment.
