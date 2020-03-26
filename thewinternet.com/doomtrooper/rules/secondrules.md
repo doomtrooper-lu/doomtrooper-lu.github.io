@@ -116,7 +116,7 @@ The Art is divided into a number of **aspects**, and most warriors are only allo
 
 **5) BASIC SET ICON** \- This small icon has no effect on the game. It merely denotes that the card is part of the DOOMTROOPER basic set. Cards from each expansion will feature a new icon in this spot.
 
-**6) NOTES** \- The special abilities and restrictions of the card are listed here. Note that sometimes a **designation** will be listed on the card in ALL-CAPITOL letters. The purpose of some of these designations are discussed in this rulebook. Others will become apparent as you play the game and your collection grows.
+**6) NOTES** \- The special abilities and restrictions of the card are listed here. Note that sometimes a **designation** will be listed on the card in ALL-CAPITAL letters. The purpose of some of these designations are discussed in this rulebook. Others will become apparent as you play the game and your collection grows.
 
 For warrior cards, the notes area includes four Combat Ratings. They are:
 
