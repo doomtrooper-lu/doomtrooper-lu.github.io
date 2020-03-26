@@ -427,7 +427,7 @@ Of course, if your strategy worked really well and you decimated your opponent, 
 
 1) You must have at least 60 cards in your playing deck at the start of the game.
 
-2) You may not have more than **five copies** of the exact same card in your deck at the beginning of the game. For instance, when the game begins, you can't have more than five **Narrow Escape** cards in your deck.
+2) You may not have more than **five copies** of the exact same card in your deck at the beginning of the game. For instance, when the game begins, you can't have more than five *NARROW ESCAPE!* cards in your deck.
 
 Once you've played DOOMTROOPER a few times and increased the size of your collection, you'll find deck building challenging and rewarding. It ensures that your games will always be unique and interesting.
 
