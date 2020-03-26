@@ -372,7 +372,7 @@ Many warriors state that it has **immunity** to the Dark Symmetry and/or the Art
 
 No spells may be cast during combat if the opponent is immune to the Art, and no Dark Symmetry abilities may be used if the opponent is immune to the Dark Symmetry (but if the warrior is immune only to **Dark Symmetry Gifts**, it is still affected by **Gifts of Apostles**). No spells or special abilities may be directly used against immune warriors (this is all usually very obvious).
 
-**IMPORTANT:** Immunity negates **all** such effects during combat. Basically, if during combat one of the combatants is immune to a mystical power, **all** of those effects that are currently "on" immediately "turn off." This usually only applies with "defensive" spells. For example, suppose Mike casts **Improve Self** on his Brotherhood warrior and then attacks Nick's **Alakhai the Cunning**. Nick's Dark Legion warrior will counter Mike's **Improve Self** effects.
+**IMPORTANT:** Immunity negates **all** such effects during combat. Basically, if during combat one of the combatants is immune to a mystical power, **all** of those effects that are currently "on" immediately "turn off." This usually only applies with "defensive" spells. For example, suppose Mike casts *IMPROVE SELF* on his Brotherhood warrior and then attacks Nick's **Alakhai the Cunning**. Nick's Dark Legion warrior will counter Mike's *IMPROVE SELF* effects.
 
 **TIMING**
 The concept of "timing" is not new to many players of collectable card games, and for some games it is a major issue full of confusion and name-calling. Not so in DOOMTROOPER! In DOOMTROOPER, everything happens **immediately** and cannot be altered unless that alteration **directly affects the thing going on at that exact moment in the game**.
