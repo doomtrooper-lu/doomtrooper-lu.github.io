@@ -450,7 +450,7 @@ The **Inquisition** expansion features over 170 new cards. This expansion spotli
 The **Warzone** expansion features over 130 new cards. This expansion spotlights the corporate powers, with numerous new warriors and effects to give your basic troops some well-deserved support. Also featured are the new **Warzone** cards.
 
 **WARZONES**
-Warzones are raging battlefields in the Mutant Chronicles setting. Originally, Warzone cards could only be played if you had previously played a **Grand Tactician** card. This is hereby changed; you do **not** need to be a GRAND TACTICIAN in order to put a Warzone card into play. Instead:
+Warzones are raging battlefields in the Mutant Chronicles setting. Originally, Warzone cards could only be played if you had previously played a *GRAND TACTICIAN* card. This is hereby changed; you do **not** need to be a GRAND TACTICIAN in order to put a Warzone card into play. Instead:
 * Warzone cards are added to your Squad/Kohort as one action each (the card will state where it may be played).
 * Any number of identical Warzones may be in play, **but YOU may only have one copy of each Warzone in play.**
 * When your warrior is the Defender in a combat, that warrior may choose to defend from one of the Warzones in its Squad/Kohort.
