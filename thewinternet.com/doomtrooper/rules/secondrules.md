@@ -181,7 +181,7 @@ During this action, you may add a warrior to your Squad or Kohort. Your Squad co
 
 To Muster a warrior, simply take the warrior from your hand and place it in either your Squad or Kohort, and then pay the Value of the warrior in Destiny Points to the common marker pile. If you do not have enough Destiny Points, you may not Muster that warrior. Doomtroopers must be placed in your Squad, and Dark Legion warriors must be placed in your Kohort.
 
-_Example: Mike has a __**Venusian Ranger**__ (Value: 4) in his hand at the start of his turn and would like to put it into play. Mike announces that he is Mustering a warrior as his first action. He takes 4 Destiny Points from his pool and puts them in the common pile, then places the __**Ranger**__ in his Squad. Mustering the warrior uses up one of his three actions, so Mike has two more actions._
+_Example: Mike has a *VENUSIAN RANGER* (Value: 4) in his hand at the start of his turn and would like to put it into play. Mike announces that he is Mustering a warrior as his first action. He takes 4 Destiny Points from his pool and puts them in the common pile, then places the __**Ranger**__ in his Squad. Mustering the warrior uses up one of his three actions, so Mike has two more actions._
 
 Note that on some cards (mostly found in the expansions), Mustering a warrior may also be referred to as **Adding** a warrior.
 
