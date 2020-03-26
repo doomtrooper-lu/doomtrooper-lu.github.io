@@ -578,7 +578,7 @@ A player may only be sabotaged if he or she has no warriors in play that are abl
 **LEGAL TARGETS WHEN PLAYING CARDS FROM YOUR HAND**
 Many cards state that they may be played on a warrior in a Squad or a Kohort, or in the Squad and Kohort itself. Despite the presence of the new Outpost, these designations still apply. If a card may only be played "on a Doomtrooper in a Squad," it may not be played on a Doomtrooper in your Outpost. But if it says "play on any Doomtrooper" then it may be played on a Doomtrooper in any Area.
 
-Cards which affect another card "in play" may still affect that card, even if one or the other is in the Outpost. For example, a **Bauhaus Great Infurior** in a Squad may destroy a fortification in an Outpost.
+Cards which affect another card "in play" may still affect that card, even if one or the other is in the Outpost. For example, a *BAUHAUS GREAT INFURIOR* in a Squad may destroy a fortification in an Outpost.
 
 [1]: /thewinternet.com/doomtrooper/images/general/thing01.gif
 [2]: /thewinternet.com/doomtrooper/images/general/thing02.gif
