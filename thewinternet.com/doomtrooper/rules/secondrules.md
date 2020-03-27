@@ -523,7 +523,7 @@ Paradise Lost features four new affiliation icons. Each represents one of the na
 ![][20] THE LUTHERAN TRIAD - While certainly the least powerful of the European tribes, the Lutherans are undeniably the most dedicated. Their wrath toward the other tribes makes them competent foes, and their highly religious nature keeps them strong.
 
 **BEASTS**
-* Beast cardss represent the indigenous animals found throughout Dark Eden that may be ridden by warriors into battle, like VEHICLES.
+* Beast cards represent the indigenous animals found throughout Dark Eden that may be ridden by warriors into battle, like VEHICLES.
 * You may give a Beast to a warrior that may have it as one action.
 * A warrior may only be given a Beast if the warrior is in your Outpost.
 * A warrior may have either **one** Beast **or** **one** VEHICLE. It may not have more than one Beast or VEHICLE, and may not have a Beast and a VEHICLE. It may have other Equipment and Relics as normal.
