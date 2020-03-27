@@ -548,7 +548,7 @@ Actions you gain from warriors and other cards in your Squad or Kohort may be us
 * The exception is if the fortification is given to a warrior (like **Installation** or **Foxhole**). These cards may be given to warriors in your Outpost (and these fortifications must stay in the Outpost).
 
 **WARZONES**
-* Cards with Warzone-specific abilities (like a warrior with **Ki Teleportation**) do not lose those abilities when they are in the Outpost, and the effect applies to Outpost-specific Warzones as well.
+* Cards with Warzone-specific abilities (like a warrior with *KI TELEPORTATION*) do not lose those abilities when they are in the Outpost, and the effect applies to Outpost-specific Warzones as well.
 
 **TRANSFER**
  You may use the new **Transfer** action to move your Doomtroopers and Dark Legion warriors to and from your Outpost.
