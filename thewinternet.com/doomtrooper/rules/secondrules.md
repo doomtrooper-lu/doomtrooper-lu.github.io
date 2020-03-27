@@ -544,7 +544,7 @@ Actions you gain from warriors and other cards in your Squad or Kohort may be us
 * Equipment that me be given to "any warrior" may be given to Tribal warriors.
 
 **BUILD FORTIFICATION**
-* A fortification may only be Built in your Outpost if it is specifically stated on the card. Most fortifications state that they are placed in either your Squad or Kohort; these cards may **not** be Built in your Outpost. Cards that are Built away from your Squad and Kohort (like **Club Arkadin**) may not be Built in your Outpost, either.
+* A fortification may only be Built in your Outpost if it is specifically stated on the card. Most fortifications state that they are placed in either your Squad or Kohort; these cards may **not** be Built in your Outpost. Cards that are Built away from your Squad and Kohort (like *CLUB ARKADIN*) may not be Built in your Outpost, either.
 * The exception is if the fortification is given to a warrior (like **Installation** or *FOXHOLE*). These cards may be given to warriors in your Outpost (and these fortifications must stay in the Outpost).
 
 **WARZONES**
