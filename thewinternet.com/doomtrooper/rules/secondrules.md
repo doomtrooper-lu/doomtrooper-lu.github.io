@@ -565,7 +565,7 @@ Actions you gain from warriors and other cards in your Squad or Kohort may be us
 * If your spies detect possible enemy movement on Earth, you must go check it out. Therefore, if any opponent has a warrior in his or her Outpost (of any affiliation), you **must** Transfer at least one warrior to your Outpost during your next regular action. As long as there are warriors in an Outpost, all players must have a warrior in his or her Outpost.
 
 **ATTACKING**
-Warriors in your Outpost may **never** attack warriors in Squads or Kohorts. Likewise, warriors in Squads and Kohorts may **never** attack warriors in Outposts. Even if a card is played that may change the attacker or defender of a combat to any other warrior in play (like **Greater Telepathy**), you may not break this rule!
+Warriors in your Outpost may **never** attack warriors in Squads or Kohorts. Likewise, warriors in Squads and Kohorts may **never** attack warriors in Outposts. Even if a card is played that may change the attacker or defender of a combat to any other warrior in play (like *GREATER TELEPATHY*), you may not break this rule!
 
 The warriors of the various Tribal affiliations may attack and be attacked by any other warrior, regardless of affiliation, even other like-affiliated warriors (for example, Templars may attack other Templars).
 
