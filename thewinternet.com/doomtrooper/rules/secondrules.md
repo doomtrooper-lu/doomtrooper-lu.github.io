@@ -231,7 +231,7 @@ As one action, you may bestow a Dark Symmetry gift on one of your Dark Legion wa
 
 There are two levels of gift. **Dark Symmetry Gifts** are less-powerful gifts that may be bestowed on any Dark Legion warrior. **Gifts of Apostles** (GIFT OF ALGEROTH, GIFT OF DEMNOGONIS, etc.) may only be bestowed on Followers of the Apostle mentioned (FOLLOWER OF ALGEROTH, FOLLOWER OF DEMNOGONIS, etc.).
 
-_For example, __**Distort**__ is a Gift of Algeroth. Only FOLLOWERS OF ALGEROTH may have it. _
+For example, *DISTORT* is a Gift of Algeroth. Only FOLLOWERS OF ALGEROTH may have it.
 
 Some warriors are immune to Dark Symmetry Gifts (which means just the less-powerful ones), and others are immune to Dark Symmetry Cards (which is every single Dark Symmetry card).
 
