@@ -514,13 +514,13 @@ Cards that normally affect warriors in your Squad or your Kohort (like fortifica
 **NEW AFFILIATIONS**
 Paradise Lost features four new affiliation icons. Each represents one of the native powers on Earth. These four affiliations are grouped under the general term of **Tribal** affiliations. When a card refers to a Tribal warrior, it means a warrior from one of these four affiliations. This means there are now three major organizations, Doomtroopers, Dark Legion warriors and Tribal warriors. The new affiliations are:
 
-![][17] THE SONS OF RASPUTIN - A proud people, the Rasputins control the eastern European region. Their huge war machines are only dwarfed by their smoke-spewing cities.
+![][17] **THE SONS OF RASPUTIN**. A proud people, the Rasputins control the eastern European region. Their huge war machines are only dwarfed by their smoke-spewing cities.
 
-![][18] THE TEMPLARS - These mutated humans rely on shear power to dominate their foes. They see their mutations as nature's way of proclaiming them the true rulers of Dark Eden.
+![][18] **THE TEMPLARS**. These mutated humans rely on shear power to dominate their foes. They see their mutations as nature's way of proclaiming them the true rulers of Dark Eden.
 
-![][19] CRESCENTIA - True nomads, the Crescentians travel from locale to locale with their homes and villages mounted atop enormous beasts. They are ever-loyal to their Khan and the words of their Prophets.
+![][19] **CRESCENTIA**. True nomads, the Crescentians travel from locale to locale with their homes and villages mounted atop enormous beasts. They are ever-loyal to their Khan and the words of their Prophets.
 
-![][20] THE LUTHERAN TRIAD - While certainly the least powerful of the European tribes, the Lutherans are undeniably the most dedicated. Their wrath toward the other tribes makes them competent foes, and their highly religious nature keeps them strong.
+![][20] **THE LUTHERAN TRIAD**. While certainly the least powerful of the European tribes, the Lutherans are undeniably the most dedicated. Their wrath toward the other tribes makes them competent foes, and their highly religious nature keeps them strong.
 
 **BEASTS**
 * Beast cards represent the indigenous animals found throughout Dark Eden that may be ridden by warriors into battle, like VEHICLES.
