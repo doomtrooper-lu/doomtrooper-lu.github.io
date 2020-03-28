@@ -349,9 +349,9 @@ If a player ever runs out of cards in his or her Draw pile while the Sabotage ru
 **IMPORTANT**: The sabotage action has **replaced** the first-edition concept of attacking a player directly. Many DOOMTROOPER expansion cards will refer to "attacking a player." In **all** circumstances, these cards now refer to a sabotage. **Sabotaging a player is no longer considered an attack, and no attack actions may ever be used to sabotage a player.**
 
 **MULTIPLE SABOTAGE OPTIONAL ADDENDUM**
-Due to overwhelming player response, the following rule has been included as an alternative to the optional Sabotage rules. In other words, you may choose to play with the Sabotage rules, the Multiple Sabotage rules, or neither._
+_Due to overwhelming player response, the following rule has been included as an alternative to the optional Sabotage rules. In other words, you may choose to play with the Sabotage rules, the Multiple Sabotage rules, or neither._
 
-_The Muiltiple Sabotage rules are the same as the Sabotage rules above, but a player MAY sabotage **each** player MORE THAN ONCE** per turn** (from your Draw step to your next Draw step). _
+_The Muiltiple Sabotage rules are the same as the Sabotage rules above, but a player MAY sabotage **each** player MORE THAN ONCE **per turn** (from your Draw step to your next Draw step)._
 
 **CARDS THAT ARE CONSIDERED OTHER CARDS**
 Some cards will state CONSIDERED A [THING] on them. This indicates that the card is also assumed to be the thing it mentions, in addition to what it truly is. The purpose of these additional "considerations" will come out through card play.
