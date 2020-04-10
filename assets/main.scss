@@ -20,6 +20,9 @@ $grey-color-dark: $brand-color; /* such as the site title in the header, visited
   font-style: normal;
 }
 
+// https://www.cssfontstack.com/Times-New-Roman
+$serif-font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+
 .profile {
   width: 40%;
   float: right;
@@ -104,4 +107,15 @@ $grey-color-dark: $brand-color; /* such as the site title in the header, visited
       @include copperplate(1.125);
     }
   }
+}
+
+blockquote {
+  //color: $grey-color;
+  //border-left: 4px solid $grey-color-light;
+  //padding-left: $spacing-unit / 2;
+  //@include relative-font-size(1.125);
+  //letter-spacing: -1px;
+
+  font-family: $serif-font-family;
+  font-style: normal;
 }
