@@ -6,7 +6,7 @@ title: "Doomtrooper Official Website: Rules, variants & FAQs"
 
 ---
 
-Domtrooper Classic (Second Edition) Rules  
+[Domtrooper Classic (Second Edition) Rules](secondrules.md)  
 The 2nd edition rules are now referred to as Classic Doomtrooper, to differentiate them form GEngine Doomtrooper. The classic rules are highly recomended when using your real cards, even with your 1st edition cards. The classic editon was never printed in English, you can assume that these rules are official for your games.
 
 Additions to First Edition Rules  
