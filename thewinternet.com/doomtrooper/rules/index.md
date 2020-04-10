@@ -6,32 +6,14 @@ title: "Doomtrooper Official Website: Rules, variants & FAQs"
 
 ---
 
-Domtrooper Classic (Second Edition) Rules
-
+Domtrooper Classic (Second Edition) Rules  
 The 2nd edition rules are now referred to as Classic Doomtrooper, to differentiate them form GEngine Doomtrooper. The classic rules are highly recomended when using your real cards, even with your 1st edition cards. The classic editon was never printed in English, you can assume that these rules are official for your games.
 
-Additions to First Edition Rules
-
+Additions to First Edition Rules  
 Even if you are not using the Second Editon rules (and why aren't you?) you should take a look at this comprehensive compiliation of rule additions to the First Edition.
 
-Tournament Rules
-
+Tournament Rules  
 Everythign you need to know to runa Doomtrooper tournament
 
-General Rule and Game FAQs
-
-Answers to questions about the overall polay of the game and global game effects
-
-Global Card and Card Type FAQs
-
-Answers to questions about general card effects and card types.
-
-Individual Card FAQs
-
-Answers to questions about specific cards and their effects.
-
-
-
-Errata
-
+Errata  
 Mistakes happen. Here are the ones that we know about.
