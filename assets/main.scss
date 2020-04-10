@@ -110,8 +110,8 @@ $serif-font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgi
 }
 
 blockquote {
-  //color: $grey-color;
-  //border-left: 4px solid $grey-color-light;
+  color: $text-color;
+  border-left-color: $text-color;
   //padding-left: $spacing-unit / 2;
   //@include relative-font-size(1.125);
   letter-spacing: 0;
