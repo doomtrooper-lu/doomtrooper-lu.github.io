@@ -3,16 +3,18 @@ layout: post
 title: The Luna Tournament 2020
 categories: podcast
 description: |-
-    Join us in Gothenburg 18–19 September for the Luna Tournament 2020!
+    Postponed until spring 2021 due to COVID-19.
 image: /images/posts/2020-03-09-the-luna-tournament-2020.jpg
 ---
 
 ![](/images/posts/2020-03-09-the-luna-tournament-2020.jpg)
 
-Join us in Gothenburg 18–19 September for the Luna Tournament 2020!  
+**Postponed until spring 2021 due to COVID-19.**
+
+Join us in Gothenburg ~~18–19 September~~ for the Luna Tournament ~~2020~~!  
 [Lunamästerskapen i Doomtrooper 2020 (inofficiellt SM)](https://www.facebook.com/events/710378336377762/)
 
-When? September 18–19.  
+When? ~~September 18–19~~.  
 Where? [Kokokaka, Stenkolsgatan 5, Gothenburg, Sweden](https://goo.gl/maps/c16JuEU8SWtugb918).  
 Why?  To have fun and play Doomtrooper with others and hopefully revitalise our community.  
 Cost: 100 SEK.  
