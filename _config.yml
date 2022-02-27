@@ -3,7 +3,7 @@ email: info@doomtrooper.lu
 description: >- # this means to ignore newlines until "baseurl:"
   The Luna Format for Doomtrooper CCG.
 #baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://doomtrooper.lu/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://doomtrooper-lu.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
