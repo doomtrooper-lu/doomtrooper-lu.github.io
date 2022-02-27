@@ -1,5 +1,5 @@
 title: doomtrooper.lu
-email: info@doomtrooper.lu
+#email: info@doomtrooper.lu
 description: >- # this means to ignore newlines until "baseurl:"
   The Luna Format for Doomtrooper CCG.
 #baseurl: "" # the subpath of your site, e.g. /blog
